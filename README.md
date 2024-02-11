@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laveena Majeed</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
